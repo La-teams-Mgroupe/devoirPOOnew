@@ -48,7 +48,7 @@ function calculateResult() {
   switch (operator) {
     case "+":
       result = firstOperand + secondOperand;
-      break;
+      break;a
     case "-":
       result = firstOperand - secondOperand;
       break;
